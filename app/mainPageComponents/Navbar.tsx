@@ -2,7 +2,6 @@ import React from "react"; //6.9k (gzipped: 2.7k)
 import AppIcon from "../SVG_Icons/AppIcon";
 
 function Navbar() {
-  const defaultColor = "#04d400";
   return (
     <header>
       <div className=" p-8 px-20">
